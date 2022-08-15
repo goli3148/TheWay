@@ -1,0 +1,4 @@
+install 'C/C++ by mixrosoft' extension
+install 'Code Runner by Jun Han' extension
+Create your c files in directory
+from top and right of screen click on 'run' button (button wich is triangle)
